@@ -11,7 +11,7 @@ cycler==0.12.1
 debugpy==1.8.5
 decorator==5.1.1
 Django==5.1.3
-django-video==0.0.1  # Add this line
+django-video==0.2  # Updated version
 django-bootstrap-form==3.4
 django-bootstrap-modal-forms==3.0.5
 django-bootstrap3==24.3
